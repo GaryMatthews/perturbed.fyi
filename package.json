@@ -1,0 +1,22 @@
+{
+  "name": "perturbed.fyi",
+  "version": "1.0.0",
+  "description": "Perturbed Social Network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaryMatthews/perturbed.fyi.git"
+  },
+  "keywords": [
+    "social"
+  ],
+  "author": "Gary Matthews",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/GaryMatthews/perturbed.fyi/issues"
+  },
+  "homepage": "https://github.com/GaryMatthews/perturbed.fyi#readme"
+}
