@@ -1,2 +1,3 @@
 # perturbed.fyi
-Chat App
+
+Private Social Network
